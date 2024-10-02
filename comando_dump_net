@@ -1,0 +1,3 @@
+tcpdump
+
+ejemplo de uso: sudo tcpdump -i eth0 -w dump_traffic.pcap
