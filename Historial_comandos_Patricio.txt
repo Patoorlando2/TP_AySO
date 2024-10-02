@@ -1,0 +1,26 @@
+4sudo do-release-upgrade
+'do-release-upgrade
+
+do-release-upgrade
+
+do-release-upgrade
+sudo apt update
+sudo apt upgrade
+do-release-upgrade
+sudo shutdown -r now
+do-release-upgrade
+ls
+cd  ARQ
+ls
+cd ..
+ls
+ls -a
+cd .ssh
+ls
+rm id_rsa id_rsa.pub
+ls
+vagarnt halt
+vagrant halt
+ls
+cd ARQ
+ls
